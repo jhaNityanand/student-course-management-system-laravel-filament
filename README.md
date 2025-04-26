@@ -40,7 +40,7 @@ A comprehensive Student Course Management System built with Laravel and Filament
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/student-course-management-system.git
+   git clone https://github.com/jhaNityanand/student-course-management-system-laravel-filament.git
    cd student-course-management-system
    ```
 
